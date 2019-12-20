@@ -1,0 +1,1 @@
+# gc_aws_redshift
